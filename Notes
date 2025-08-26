@@ -1,0 +1,66 @@
+Hi,
+
+Cursor AI is a powerful coding assistant similar to VS Code ( it is specifically built for VS Code) but enhanced with multiple AI integrations like GPT and Claude.
+
+ While not ideal for generating an entire project from scratch, it excels at understanding project context, suggesting improvements, explaining errors, and significantly speeding up development.
+
+Key points: 
+It is a smart coding assistant designed to improve developer productivity.
+
+Works similarly to Visual Studio Code (VS Code) in terms of interface and usability 
+
+Can be used both locally (installed on the system) and online (by connecting with Git repositories). Works best and easy to use when installed locally.
+
+Helps in writing code faster with AI-powered suggestions.
+
+It Generates snippets or blocks of code based on user-provided instructions.
+
+Explains errors in the code and suggests fixes.
+
+ Reads the entire project context to provide relevant suggestions.
+
+Its Leverages multiple AI models such as:
+GPT (OpenAI)
+Claude (Anthropic)
+And potentially others for different coding tasks.
+
+
+When used online by connecting repositories, AI generates code suggestions based on repo content.
+
+It improves coding speed and reduces debugging time.
+
+Provides context-aware solutions instead of generic answers.
+
+Not reliable for full code generation from scratch – may not fully understand user intent.
+
+Better suited for assistance and suggestions rather than replacing manual coding.
+
+a bit tricky to use in the beginning.
+
+
+
+
+
+
+..................
+
+
+
+Observations on Bolt AI
+Application Creation: Bolt AI can generate fully working apps directly from natural instructions. I tried it for a Car Tracker App, and it implemented key features like adding car details, searching by name/year, updating sold status, deleting records, and storing information. The interface it created was clean, simple, and easy to use.
+
+Daily Token Limit: The free plan offers 100 tokens per day, which is enough for initial app creation but runs out quickly during extended testing or multiple iterations. Once tokens are exhausted, progress halts until the next day.
+
+Pro Plan: To overcome these limitations and continue without interruption, Bolt AI requires a Pro subscription ($25–30 per month). This might feel costly for casual or experimental users but could be worthwhile for developers who use it extensively.
+
+Overall Impression: It’s a powerful tool for speeding up prototyping and building functional apps with minimal effort. The biggest drawback is the strict free limit, which pushes frequent users toward the paid plan fairly quickly.
+
+
+
+It intially asked few questions about our background and provides token to work with this. clearly understood the intention of instructions with accuracy and provided the applivation
+
+
+
+
+
+Create an car tracker app that lets user to add car details, search by name or manufacturing year, update its sold status , delete it from recirds if necessary and store the data
